@@ -1,0 +1,4 @@
+this is the file from text 2
+this is the file sample2.txt
+
+text2
